@@ -31,4 +31,9 @@ public class Manager : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
+
+    public void Home()
+    {
+        SceneManager.LoadScene("SelectScene");
+    }
 }
