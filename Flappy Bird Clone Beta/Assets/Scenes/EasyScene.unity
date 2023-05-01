@@ -1083,7 +1083,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxTime: 1.5
-  _heightRange: 1.25
+  _heightRange: 0.45
   _pipe: {fileID: 6851037923293552489, guid: 0dfffaa0cce804012936562b97cc6c36, type: 3}
 --- !u!4 &1011501141
 Transform:
