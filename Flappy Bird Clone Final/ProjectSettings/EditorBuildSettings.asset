@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HardScene.unity
     guid: bfc7b2739390244fb8224d36e89dbc80
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: d736e8433e89e4b3fa57570f9c48683d
   m_configObjects: {}
